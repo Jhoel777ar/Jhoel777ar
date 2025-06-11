@@ -102,12 +102,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=joelandres&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=00FF7F" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" alt="Matrix GIF" width="250"/>
 </p>
 
