@@ -109,7 +109,7 @@ Actualmente colaboro con un equipo multidisciplinario en ARK DEV, empresa priva
 <p align="center">
   <a href="https://cal.com/ark-dev" title="Agendar reunión"><img src="https://img.icons8.com/windows/48/00FFD1/appointment-reminders--v1.png" width="32" alt="Cal.com" /></a>
   <a href="mailto:andreusjhoel67@gmail.com" title="Email"><img src="https://img.icons8.com/windows/48/00FFD1/new-post.png" width="32" alt="Email" /></a>
-  <a href="https://twitter.com/ark_dev" title="Twitter"><img src="https://img.icons8.com/windows/48/00FFD1/twitter--v1.png" width="32" alt="Twitter" /></a>
+  <a href="https://twitter.com/arkjhoel" title="Twitter"><img src="https://img.icons8.com/windows/48/00FFD1/twitter--v1.png" width="32" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/joelandres" title="LinkedIn"><img src="https://img.icons8.com/windows/48/00FFD1/linkedin.png" width="32" alt="LinkedIn" /></a>
   <a href="https://www.buymeacoffee.com/arkdev" title="Buy Me a Coffee"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&style=for-the-badge" alt="Buy Me a Coffee" /></a>
 </p>
