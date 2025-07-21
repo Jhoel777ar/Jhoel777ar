@@ -11,7 +11,9 @@
 <p align="center">
   <a href="http://g.dev/ark_dev"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&style=for-the-badge" alt="Google Dev" /></a>
   <a href="https://arkdev.pages.dev/nosotros"><img src="https://img.shields.io/badge/ARK%20DEV-Fundador-00FFD1?logo=about-dot-me&style=for-the-badge" alt="Fundador ARK DEV" /></a>
-  <a href="https://github.com/ark-dev?tab=followers"><img src="https://img.shields.io/github/followers/ark-dev?label=Follow&style=for-the-badge&color=00FFD1" alt="Followers" /></a>
+<a href="https://github.com/ark-dev">
+  <img src="https://komarev.com/ghpvc/?username=ark-dev&color=00FFD1&style=for-the-badge&label=Vistas" alt="Profile Views" />
+</a>
 </p>
 
 ---
