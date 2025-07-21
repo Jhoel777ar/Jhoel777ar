@@ -4,12 +4,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=5000&color=00FF7F&center=true&vCenter=true&width=1000&lines=%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s+%7C+ARK+DEV!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=5000&color=00FFD1&center=true&vCenter=true&width=1000&lines=%C2%A1Bienvenido+a+mi+Mundo+%7C+ARK+DEV!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelandres&style=for-the-badge&color=00FF7F" alt="Visitas al perfil"/>
+  <a href="http://g.dev/ark_dev"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&style=for-the-badge" alt="Google Dev"/></a>
+  <a href="https://komarev.com/ghpvc/?username=joelandres&style=for-the-badge&color=00FFD1"><img src="https://komarev.com/ghpvc/?username=joelandres&style=for-the-badge&color=00FFD1" alt="Visitas al perfil"/></a>
 </p>
 
 ---
@@ -17,13 +18,15 @@
 ## 🚀 Sobre Mí
 
 <details>
-  <summary>Conoce más</summary>
+  <summary>Sumérgete en mi historia</summary>
 
-  Soy **Joel Andrés**, fundador de **ARK DEV**, desarrollador Full-Stack y entusiasta de la innovación tecnológica. Combino experiencia en **desarrollo de software**, **ciberseguridad** y **diseño multimedia** para entregar soluciones completas y seguras.
+  Soy **Joel Andrés**, mente creativa detrás de **ARK DEV**. Fusiono:
 
-  - 🎓 Estudiante de Ingeniería de Sistemas
-  - 🔒 Especialista en ciberseguridad & electrónica
-  - 💡 Apasionado por IA, automatización y optimización de procesos
+  - 💻 **Desarrollo Full-Stack** (Web, Móvil, Escritorio)
+  - 🔐 **Ciberseguridad** & protección de datos
+  - 🎨 **Diseño Multimedia** & Experiencias Interactivas
+
+  Apasionado por la **IA**, la **automatización** y la **optimización** de procesos.
 
 </details>
 
@@ -36,17 +39,17 @@
     <td align="center">
       <h3>Ark Dev System</h3>
       <img src="https://arkdev.pages.dev/src/arkdevsystem.png" width="100" />
-      <p>Sistemas personalizados: web, móviles y de escritorio.</p>
+      <p>Sistemas a medida: web, móvil y desktop con UX de última generación.</p>
     </td>
     <td align="center">
       <h3>Ark Dev Solutions</h3>
       <img src="https://arkdev.pages.dev/src/arkdevsolutions.png" width="100" />
-      <p>Mantenimiento de hardware & optimización tecnológica.</p>
+      <p>Infraestructura, hardware y optimización tecnológica integral.</p>
     </td>
     <td align="center">
       <h3>Ark Secure</h3>
       <img src="https://arkdev.pages.dev/src/arksecure.png" width="100" />
-      <p>Protección contra ciberataques & auditorías de seguridad.</p>
+      <p>Auditorías, pentesting y defensa proactiva ante ciberamenazas.</p>
     </td>
   </tr>
 </table>
@@ -55,66 +58,50 @@
 
 ## 🌟 Proyectos Destacados
 
-- **Automatización IA**: Chatbots y filtrado de datos con IA avanzada.
-- **Plataformas Web**: Desarrolladas en Next.js, Laravel y PHP.
-- **Herramientas de Ciberseguridad**: Detección y respuesta en tiempo real.
-- **Integraciones Multimedia**: DaVinci Resolve & Adobe Suite para proyectos multimedia.
+- **IA Conversacional**: Chatbots multilingües con NLP.
+- **Dashboards Dinámicos**: Next.js + Vercel + D3.js.
+- **Apps Android**: Kotlin + Material You + optimización Battery.
+- **Sistemas IoT**: .NET, WinUI y WPF para control en tiempo real.
+- **Integraciones Multimedia**: DaVinci Resolve & Adobe Suite.
 
 ---
 
-## 💻 Tech Stack & Herramientas
-
-### Lenguajes
+## 🖥️ Lenguajes & Plataformas
 
 <p align="center">
-  <img alt="C#"         src="https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge" />
-  <img alt="C++"        src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=for-the-badge" />
-  <img alt="Python"     src="https://img.shields.io/badge/Python-3670A0?logo=python&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
-  <img alt="PHP"        src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge" />
-  <img alt="Java"       src="https://img.shields.io/badge/Java-ED8B00?logo=java&style=for-the-badge" />
+  <!-- Lenguajes Básicos -->
+  <img alt="C#"            src="https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge" />
+  <img alt="C++"           src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=for-the-badge" />
+  <img alt="Python"        src="https://img.shields.io/badge/Python-3670A0?logo=python&style=for-the-badge" />
+  <img alt="JavaScript"    src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
+  <img alt="Kotlin"        src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&style=for-the-badge" />
+  <img alt="PHP"           src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge" />
 </p>
 
-### Frameworks & Plataformas
-
 <p align="center">
+  <!-- Frameworks & UI -->
   <img alt="Next.js"       src="https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge" />
-  <img alt="Vercel"       src="https://img.shields.io/badge/Vercel-000000?logo=vercel&style=for-the-badge" />
-  <img alt="Laravel"      src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge" />
-  <img alt=".NET"         src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&style=for-the-badge" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=for-the-badge" />
-  <img alt="Livewire"     src="https://img.shields.io/badge/Livewire-4E56A2?logo=laravel&style=for-the-badge" />
-  <img alt="Lenis"        src="https://img.shields.io/badge/Lenis-%23FFFFFF?logo=logo&style=for-the-badge" />
-  <img alt="GSAP"         src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&style=for-the-badge" />
-  <img alt="Filament PHP" src="https://img.shields.io/badge/FilamentPHP-6E40C9?logo=filament&style=for-the-badge" />
+  <img alt="Vercel"        src="https://img.shields.io/badge/Vercel-000000?logo=vercel&style=for-the-badge" />
+  <img alt="Laravel"       src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge" />
+  <img alt=".NET"          src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&style=for-the-badge" />
+  <img alt="WinUI"         src="https://img.shields.io/badge/WinUI-0078D7?logo=windows&style=for-the-badge" />
+  <img alt="Tailwind CSS"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=for-the-badge" />
+  <img alt="Material You"  src="https://img.shields.io/badge/Material_You-6200EE?logo=googlematerialdesign&style=for-the-badge" />
 </p>
 
-### IA & Multimedia
-
 <p align="center">
-  <img alt="TensorFlow"     src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge" />
-  <img alt="Illustrator"    src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&style=for-the-badge" />
-  <img alt="DaVinciResolve" src="https://img.shields.io/badge/DaVinci_Resolve-4D4D4D?logo=davinci-resolve&style=for-the-badge" />
+  <!-- IA & Multimedia -->
+  <img alt="TensorFlow"    src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge" />
+  <img alt="GSAP"          src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&style=for-the-badge" />
+  <img alt="Adobe PS"      src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge" />
 </p>
 
-### Bases de datos & DevOps
-
 <p align="center">
-  <img alt="SQL"        src="https://img.shields.io/badge/SQL-003B57?logo=mysql&style=for-the-badge" />
-  <img alt="MySQL"      src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge" />
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-DF7B0E?logo=phpmyadmin&style=for-the-badge" />
-  <img alt="XAMPP"      src="https://img.shields.io/badge/XAMPP-007396?logo=xampp&style=for-the-badge" />
-  <img alt="Laragon"    src="https://img.shields.io/badge/Laragon-4D7AB1?logo=laragon&style=for-the-badge" />
-  <img alt="Virtual DJ" src="https://img.shields.io/badge/Virtual_DJ-1DB954?logo=virtualdj&style=for-the-badge" />
-</p>
-
----
-
-## 📈 Estadísticas & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelandres&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Bases de datos & DevTools -->
+  <img alt="MySQL"         src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge" />
+  <img alt="SQL Server"    src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&style=for-the-badge" />
+  <img alt="phpMyAdmin"    src="https://img.shields.io/badge/phpMyAdmin-DF7B0E?logo=phpmyadmin&style=for-the-badge" />
+  <img alt="XAMPP"         src="https://img.shields.io/badge/XAMPP-007396?logo=xampp&style=for-the-badge" />
 </p>
 
 ---
@@ -123,18 +110,14 @@
 
 <p align="center">
   <a href="https://cal.com/ark-dev" title="Agendar reunión">
-    <img src="https://img.icons8.com/?size=100&id=43969&format=png" width="25" alt="Cal.com"/>
+    <img src="https://img.icons8.com/windows/48/00FFD1/appointment-reminders--v1.png" width="32" alt="Cal.com"/>
   </a>
   <a href="mailto:andreusjhoel67@gmail.com" title="Email">
-    <img src="https://img.icons8.com/?size=100&id=ycOXgfAbsjS0&format=png" width="25" alt="Email"/>
+    <img src="https://img.icons8.com/windows/48/00FFD1/new-post.png" width="32" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/joelandres" title="LinkedIn">
-    <img src="https://img.icons8.com/?size=100&id=LsaiAfBB3xy3&format=png" width="25" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/windows/48/00FFD1/linkedin.png" width="32" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" alt="Matrix GIF" width="250"/>
 </p>
 
 <p align="center">Última Edición: 21/07/2025</p>
