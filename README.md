@@ -2,108 +2,139 @@
   <img src="https://arkdev.pages.dev/src/1001136218removebgpreview.png" alt="ARK DEV Logo" width="200"/>
 </p>
 
-# Joel Andrés | ARK DEV
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=00FF7F&center=true&vCenter=true&width=1000&lines=¡Hola%2C+soy+Joel+Andrés!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=5000&color=00FF7F&center=true&vCenter=true&width=1000&lines=%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s+%7C+ARK+DEV!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32CD32¢er=true&vCenter=true&width=1000&lines=Ark+Dev+%7C+Efficiency+And+Modernity" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=joelandres&style=for-the-badge&color=00FF7F" alt="Visitas al perfil"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelandres&label=Visitas+al+perfil&base=1230&abbreviated=true&color=00FF7F&style=for-the-badge" alt="joelandres" />
-</p>
+---
 
 ## 🚀 Sobre Mí
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; text-align: center;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px;">
-    <h3 style="color: #00FF7F;">Creador de ARK DEV & Desarrollador Full-Stack</h3>
-    <p>Freelance en formación, apasionado por la innovación tecnológica. Fundador de ARK DEV, especializado en software avanzado y soluciones de hardware.</p>
-  </div>
-  <div style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px;">
-    <h3 style="color: #00FF7F;">Experto en Ciberseguridad</h3>
-    <p>Especialista en ciberseguridad y electrónica, garantizando soluciones seguras y eficientes. Estudiante de Ingeniería de Sistemas.</p>
-  </div>
-</div>
+<details>
+  <summary>Conoce más</summary>
 
-## 🛠️ Servicios de ARK DEV
+  Soy **Joel Andrés**, fundador de **ARK DEV**, desarrollador Full-Stack y entusiasta de la innovación tecnológica. Combino experiencia en **desarrollo de software**, **ciberseguridad** y **diseño multimedia** para entregar soluciones completas y seguras.
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; text-align: center;">
-  <div style="margin: 10px; max-width: 250px;">
-    <img src="https://arkdev.pages.dev/src/arkdevsystem.png" alt="Ark Dev System" width="150"/>
-    <h3>Ark Dev System</h3>
-    <p>Desarrollo de software avanzado: aplicaciones móviles, plataformas web y sistemas personalizados.</p>
-  </div>
-  <div style="margin: 10px; max-width: 250px;">
-    <img src="https://arkdev.pages.dev/src/arkdevsolutions.png" alt="Ark Dev Solutions" width="150"/>
-    <h3>Ark Dev Solutions</h3>
-    <p>Mantenimiento de hardware, diagnósticos precisos y optimización tecnológica.</p>
-  </div>
-  <div style="margin: 10px; max-width: 250px;">
-    <img src="https://arkdev.pages.dev/src/arksecure.png" alt="Ark Secure" width="150"/>
-    <h3>Ark Secure</h3>
-    <p>Protección avanzada contra ciberataques y soluciones de ciberseguridad integral.</p>
-  </div>
-</div>
+  - 🎓 Estudiante de Ingeniería de Sistemas
+  - 🔒 Especialista en ciberseguridad & electrónica
+  - 💡 Apasionado por IA, automatización y optimización de procesos
+
+</details>
+
+---
+
+## 🛠️ Servicios & Productos
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>Ark Dev System</h3>
+      <img src="https://arkdev.pages.dev/src/arkdevsystem.png" width="100" />
+      <p>Sistemas personalizados: web, móviles y de escritorio.</p>
+    </td>
+    <td align="center">
+      <h3>Ark Dev Solutions</h3>
+      <img src="https://arkdev.pages.dev/src/arkdevsolutions.png" width="100" />
+      <p>Mantenimiento de hardware & optimización tecnológica.</p>
+    </td>
+    <td align="center">
+      <h3>Ark Secure</h3>
+      <img src="https://arkdev.pages.dev/src/arksecure.png" width="100" />
+      <p>Protección contra ciberataques & auditorías de seguridad.</p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🌟 Proyectos Destacados
 
-- **Automatización con IA**: Sistemas con automatización impulsada por IA para interacción con clientes y filtrado de datos personalizado.
-- **Aplicaciones Web y Móviles**: Apps escalables, modernas y visualmente atractivas usando .NET y frameworks modernos.
+- **Automatización IA**: Chatbots y filtrado de datos con IA avanzada.
+- **Plataformas Web**: Desarrolladas en Next.js, Laravel y PHP.
+- **Herramientas de Ciberseguridad**: Detección y respuesta en tiempo real.
+- **Integraciones Multimedia**: DaVinci Resolve & Adobe Suite para proyectos multimedia.
 
-## 💻 Tecnologías y Herramientas
+---
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; text-align: center;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px;">
-    <h3>Lenguajes</h3>
-    <p>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style-for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style-for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style-for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style-for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </p>
-  </div>
-  <div style="flex: 1; min-width: 300px; max-width: 400px; margin: 10px;">
-    <h3>Frameworks y Herramientas</h3>
-    <p>
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-      <img src="https://img.shields.io/badge/Livewire-4E56A2?style-for-the-badge&logo=laravel&logoColor=white" alt="Livewire" />
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style-for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style-for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style-for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-    </p>
-  </div>
-</div>
+## 💻 Tech Stack & Herramientas
 
-<div style="display: flex; justify-content: center; text-align: center;">
-  <div style="margin: 10px;">
-    <h3>Aprendiendo</h3>
-    <p>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style-for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style-for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style-for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style-for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <span style="font-size: 24px; color: #00FF7F;">+</span>
-    </p>
-  </div>
-</div>
+### Lenguajes
+
+<p align="center">
+  <img alt="C#"         src="https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge" />
+  <img alt="C++"        src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=for-the-badge" />
+  <img alt="Python"     src="https://img.shields.io/badge/Python-3670A0?logo=python&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
+  <img alt="PHP"        src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge" />
+  <img alt="Java"       src="https://img.shields.io/badge/Java-ED8B00?logo=java&style=for-the-badge" />
+</p>
+
+### Frameworks & Plataformas
+
+<p align="center">
+  <img alt="Next.js"       src="https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge" />
+  <img alt="Vercel"       src="https://img.shields.io/badge/Vercel-000000?logo=vercel&style=for-the-badge" />
+  <img alt="Laravel"      src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge" />
+  <img alt=".NET"         src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&style=for-the-badge" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=for-the-badge" />
+  <img alt="Livewire"     src="https://img.shields.io/badge/Livewire-4E56A2?logo=laravel&style=for-the-badge" />
+  <img alt="Lenis"        src="https://img.shields.io/badge/Lenis-%23FFFFFF?logo=logo&style=for-the-badge" />
+  <img alt="GSAP"         src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&style=for-the-badge" />
+  <img alt="Filament PHP" src="https://img.shields.io/badge/FilamentPHP-6E40C9?logo=filament&style=for-the-badge" />
+</p>
+
+### IA & Multimedia
+
+<p align="center">
+  <img alt="TensorFlow"     src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge" />
+  <img alt="Illustrator"    src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&style=for-the-badge" />
+  <img alt="DaVinciResolve" src="https://img.shields.io/badge/DaVinci_Resolve-4D4D4D?logo=davinci-resolve&style=for-the-badge" />
+</p>
+
+### Bases de datos & DevOps
+
+<p align="center">
+  <img alt="SQL"        src="https://img.shields.io/badge/SQL-003B57?logo=mysql&style=for-the-badge" />
+  <img alt="MySQL"      src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge" />
+  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-DF7B0E?logo=phpmyadmin&style=for-the-badge" />
+  <img alt="XAMPP"      src="https://img.shields.io/badge/XAMPP-007396?logo=xampp&style=for-the-badge" />
+  <img alt="Laragon"    src="https://img.shields.io/badge/Laragon-4D7AB1?logo=laragon&style=for-the-badge" />
+  <img alt="Virtual DJ" src="https://img.shields.io/badge/Virtual_DJ-1DB954?logo=virtualdj&style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Estadísticas & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelandres&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
 
 ## 📬 Conecta Conmigo
 
 <p align="center">
-   <a href="https://cal.com/ark-dev"><img width="25px" src="https://img.icons8.com/?size=100&id=43969&format=png&color=000000" alt="Cal.com"> Ark Dev | Cal.com</a>
+  <a href="https://cal.com/ark-dev" title="Agendar reunión">
+    <img src="https://img.icons8.com/?size=100&id=43969&format=png" width="25" alt="Cal.com"/>
+  </a>
+  <a href="mailto:andreusjhoel67@gmail.com" title="Email">
+    <img src="https://img.icons8.com/?size=100&id=ycOXgfAbsjS0&format=png" width="25" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joelandres" title="LinkedIn">
+    <img src="https://img.icons8.com/?size=100&id=LsaiAfBB3xy3&format=png" width="25" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" alt="Matrix GIF" width="250"/>
 </p>
 
-<p align="center">Última Edición: 04/06/2025</p>
-
+<p align="center">Última Edición: 21/07/2025</p>
