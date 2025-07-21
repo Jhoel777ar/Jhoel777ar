@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=5000&color=00FFD1&center=true&vCenter=true&width=1000&lines=%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s!+Full-Stack+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=5000&color=00FFD1&center=true&vCenter=true&width=1000&lines=%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -100,15 +100,6 @@ Actualmente colaboro con un equipo multidisciplinario en ARK DEV, empresa priva
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android&style=for-the-badge" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&style=for-the-badge" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge" />
-</p>
-
----
-
-## 📊 Estadísticas & Medallas
-
-<p align="center">
-  <a href="https://github.com/ark-dev"><img src="https://github-readme-stats.vercel.app/api?username=ark-dev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/ark-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ark-dev&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 ---
