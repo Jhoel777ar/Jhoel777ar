@@ -111,7 +111,9 @@ Actualmente colaboro con un equipo multidisciplinario en ARK DEV, empresa priva
 <p align="center">
   <a href="https://cal.com/ark-dev" title="Agendar reunión"><img src="https://img.icons8.com/windows/48/00FFD1/appointment-reminders--v1.png" width="32" alt="Cal.com" /></a>
   <a href="mailto:arkdev77@gmail.com" title="Email"><img src="https://img.icons8.com/windows/48/00FFD1/new-post.png" width="32" alt="Email" /></a>
-  <a href="www.linkedin.com/in/joel-andres-c-090078345" title="LinkedIn"><img src="https://img.icons8.com/windows/48/00FFD1/linkedin.png" width="32" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/joel-andres-c-090078345" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/windows/48/00FFD1/linkedin.png" width="32" alt="LinkedIn" />
+</a>
 </p>
 
 <p align="center">Última Edición: 21/07/2025</p>
