@@ -80,7 +80,7 @@ def codigo_perfecto():
 > [!TIP]
 > 💡 **Cada proyecto es una oportunidad de crear algo extraordinario**
 
-### 🏗️ **Desarrollo Full-Stack Premium**
+### 🏗️ **Desarrollo Full-Stack **
 
 <details>
 <summary>🌐 <strong>Frontend Avanzado</strong></summary>
@@ -147,11 +147,11 @@ class OptimizedController extends Controller
 | **Network Security** | Vulnerability Assessment, Port Scanning |
 | **Mobile Security** | Android/iOS App Security Testing |
 | **Infrastructure** | Server Hardening, Configuration Review |
+</details>
 
 > [!WARNING]
 > 🚨 **El 95% de las brechas de seguridad son evitables con las medidas correctas**
 
-</details>
 
 <details>
 <summary>🚨 <strong>SOC & Incident Response</strong></summary>
