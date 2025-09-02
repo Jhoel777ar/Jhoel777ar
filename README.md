@@ -80,14 +80,8 @@ def codigo_perfecto():
 
 ## 💼 Servicios & Especialidades
 
-<div align="center">
-
-> [!TIP]  
-> ![TIP](https://img.shields.io/badge/💡_TIP-Cada_proyecto_es_una_oportunidad_de_crear_algo_extraordinario-00FFD1?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
-
+> [!TIP]
+> 💡 **Cada proyecto es una oportunidad de crear algo extraordinario**
 
 ### 🏗️ **Desarrollo Full-Stack Premium**
 
