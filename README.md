@@ -9,9 +9,8 @@
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ark-dev&color=808080&style=for-the-badge&labelColor=1a1a1a&label=👁%EF%B8%8F%20Visitantes)](https://github.com/ark-dev)  
-[![Years Coding](https://img.shields.io/badge/🕒%20Programando-2%20años-00FFD1?style=for-the-badge&labelColor=0D1117&color=00FFD1)](https://arkdev.pages.dev)  
-[![Founder](https://img.shields.io/badge/🚀%20Founder-ARK%20DEV-00FFD1?style=for-the-badge&labelColor=0D1117&color=00FFD1)](https://arkdev.pages.dev)  
-
+[![Years Coding](https://img.shields.io/badge/🕒%20Programando-2%20años-808080?style=for-the-badge&labelColor=0D1117&color=808080)](https://arkdev.pages.dev)  
+[![Founder](https://img.shields.io/badge/🚀%20Founder-ARK%20DEV-808080?style=for-the-badge&labelColor=0D1117&color=808080)](https://arkdev.pages.dev)  
 
 <details>
 <summary>🧭 <strong>Navegación Rápida</strong></summary>
