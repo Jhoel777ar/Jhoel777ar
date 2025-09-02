@@ -39,16 +39,19 @@
 
 ## 🌟 Sub-Marcas de ARK DEV
 
-> [!NOTE]  **ARK DEV SYSTEM**  
+> [!NOTE]
+> **ARK DEV SYSTEM**  
 > Encargado de **desarrollo de software** y sistemas integrados con IA, gestión de datos y automatización de procesos.
 
-> [!NOTE] **ARK DEV SOLUTIONS**  
+> [!NOTE]
+> **ARK DEV SOLUTIONS**  
 > Encargado de **mantenimiento físico de PCs y laptops**, instalación de software y soporte técnico profesional.
 
 > [!NOTE] **ARK SECURE**  
 > Especializado en **ciberseguridad**, auditorías éticas y no éticas, detección de vulnerabilidades y protección de información.
 
-> [!NOTE] **ARK BIO (Próximamente)**  
+> [!NOTE]
+> **ARK BIO (Próximamente)**  
 > Próximo lanzamiento, enfocado en **biotecnología e innovación científica**, parte del grupo ARK DEV.
 
 ---
