@@ -1,23 +1,17 @@
 <div align="center">
-
-<!-- Logo con efecto visual -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://arkdev.pages.dev/src/1001136218removebgpreview.png">
   <source media="(prefers-color-scheme: light)" srcset="https://arkdev.pages.dev/src/1001136218removebgpreview.png">
   <img alt="ARK DEV" src="https://arkdev.pages.dev/src/1001136218removebgpreview.png" width="180" style="filter: drop-shadow(0 0 20px #00FFD1);">
 </picture>
-
-<!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=2000&color=00FFD1&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s!;%F0%9F%9A%80+Ingeniero+de+Sistemas+%26+Fundador;%E2%9A%A1+Experto+en+Full-Stack+%26+Ciberseguridad" alt="Animated Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=2000&color=00FFD1&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s!;%F0%9F%9A%80" alt="Animated Greeting" />
 </a>
 
-<!-- Status badges modernos -->
 [![Profile Views](https://komarev.com/ghpvc/?username=ark-dev&color=00FFD1&style=for-the-badge&label=👁%EF%B8%8F%20Visitantes)](https://github.com/ark-dev)
 [![Years Coding](https://img.shields.io/badge/🕒%20Programando-8%2B%20Años-00FFD1?style=for-the-badge&labelColor=1a1a1a)](https://arkdev.pages.dev)
 [![Coffee](https://img.shields.io/badge/☕%20Powered%20By-Café-00FFD1?style=for-the-badge&labelColor=1a1a1a)](https://arkdev.pages.dev)
 
-<!-- Navegación rápida -->
 <details>
 <summary>🧭 <strong>Navegación Rápida</strong></summary>
 
