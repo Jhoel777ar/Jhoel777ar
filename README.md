@@ -8,9 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=2000&color=00FFD1&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Joel+Andr%C3%A9s!;%F0%9F%9A%80" alt="Animated Greeting" />
 </a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ark-dev&color=00FFD1&style=for-the-badge&labelColor=0D1117&label=👁%EF%B8%8F%20Visitantes)](https://github.com/ark-dev)  
+[![Profile Views](https://komarev.com/ghpvc/?username=ark-dev&color=808080&style=for-the-badge&labelColor=1a1a1a&label=👁%EF%B8%8F%20Visitantes)](https://github.com/ark-dev)  
 [![Years Coding](https://img.shields.io/badge/🕒%20Programando-2%20años-00FFD1?style=for-the-badge&labelColor=0D1117&color=00FFD1)](https://arkdev.pages.dev)  
 [![Founder](https://img.shields.io/badge/🚀%20Founder-ARK%20DEV-00FFD1?style=for-the-badge&labelColor=0D1117&color=00FFD1)](https://arkdev.pages.dev)  
+
 
 <details>
 <summary>🧭 <strong>Navegación Rápida</strong></summary>
