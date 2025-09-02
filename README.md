@@ -82,7 +82,23 @@ def codigo_perfecto():
 
 <div align="center">
 
-![TIP](https://img.shields.io/badge/💡_TIP-Cada_proyecto_es_una_oportunidad_de_crear_algo_extraordinario-00FFD1?style=for-the-badge&labelColor=0D1117)
+> **[!NOTE]**  
+> 🎯 Transformando ideas en soluciones tecnológicas innovadoras
+
+---
+
+> **[!TIP]**  
+> 💡 Cada proyecto es una oportunidad de crear algo extraordinario
+
+---
+
+> **[!WARNING]**  
+> ⚠️ Atento: Los grandes retos traen grandes responsabilidades
+
+---
+
+> **[!IMPORTANT]**  
+> 🚀 La innovación constante es la clave del crecimiento
 
 </div>
 
