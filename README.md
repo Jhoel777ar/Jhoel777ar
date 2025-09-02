@@ -221,12 +221,8 @@ def create_advanced_model(input_shape, num_classes):
 
 ## 🛠️ Arsenal Tecnológico
 
-<div align="center">
-
 > [!IMPORTANT]
 > 🎨 **Dominio completo del stack moderno - desde el pixel hasta el servidor**
-
-</div>
 
 ### 🎨 **Frontend & UX/UI**
 
