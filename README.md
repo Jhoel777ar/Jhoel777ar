@@ -38,15 +38,14 @@
 </div>
 
 ```ascii
-╔═══════════════════════════════════════╗
-║  🧑‍💻 Joel Andrés - ARK DEV Founder      ║
-║  📍 Ubicación: La Paz, Bolivia        ║
-║  🎓 Ingeniero de Sistemas             ║
-║  📅 Empresa fundada: Abril 2024       ║
-╚═══════════════════════════════════════╝
+╔═════════════════════════════════════════╗
+║  🧑‍💻 Joel Andres - ARK DEV Founder      ║
+║  📍 Ubicación: La Paz, Bolivia - Chile ║
+║  📅 Empresa fundada: Abril 2024        ║
+╚═════════════════════════════════════════╝
 ```
 
-**ARK DEV** no es solo una empresa, es una **revolución tecnológica** 🚀. Desde abril de 2024, lidera un equipo multidisciplinario especializado en:
+**ARK DEV** no es solo una empresa privada, es una **revolución tecnológica** 🚀. Desde abril de 2024, lidera un equipo multidisciplinario especializado en:
 
 <table>
 <tr>
@@ -83,8 +82,7 @@ def codigo_perfecto():
 
 <div align="center">
 
-> [!TIP]
-> 💡 **Cada proyecto es una oportunidad de crear algo extraordinario**
+![TIP](https://img.shields.io/badge/💡_TIP-Cada_proyecto_es_una_oportunidad_de_crear_algo_extraordinario-00FFD1?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
