@@ -39,7 +39,7 @@
 
 ## 🌟 Sub-Marcas de ARK DEV
 
-> [!NOTE] **ARK DEV SYSTEM**  
+> [!NOTE]  **ARK DEV SYSTEM**  
 > Encargado de **desarrollo de software** y sistemas integrados con IA, gestión de datos y automatización de procesos.
 
 > [!NOTE] **ARK DEV SOLUTIONS**  
