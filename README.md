@@ -31,11 +31,8 @@
 
 ## 🌟 Sobre Mí
 
-<div align="center">
-
-![Note](https://img.shields.io/badge/⚡_Nota-Transformando_ideas_en_soluciones_tecnológicas_innovadoras-808080?style=for-the-badge&labelColor=0D1117)
-
-</div>
+> [!NOTE]
+> ⚡ **Transformando ideas en soluciones tecnológicas innovadoras**
 
 ```ascii
 ╔═════════════════════════════════════════╗
