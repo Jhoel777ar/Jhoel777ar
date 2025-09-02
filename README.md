@@ -82,9 +82,12 @@ def codigo_perfecto():
 
 <div align="center">
 
-> [!TIP](https://img.shields.io/badge/💡_TIP-Cada_proyecto_es_una_oportunidad_de_crear_algo_extraordinario-00FFD1?style=for-the-badge&labelColor=0D1117)
+> [!TIP]  
+> ![TIP](https://img.shields.io/badge/💡_TIP-Cada_proyecto_es_una_oportunidad_de_crear_algo_extraordinario-00FFD1?style=for-the-badge&labelColor=0D1117)
 
 </div>
+
+
 
 ### 🏗️ **Desarrollo Full-Stack Premium**
 
