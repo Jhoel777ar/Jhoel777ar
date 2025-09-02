@@ -47,7 +47,8 @@
 > **ARK DEV SOLUTIONS**  
 > Encargado de **mantenimiento físico de PCs y laptops**, instalación de software y soporte técnico profesional.
 
-> [!NOTE] **ARK SECURE**  
+> [!NOTE]
+> **ARK SECURE**  
 > Especializado en **ciberseguridad**, auditorías éticas y no éticas, detección de vulnerabilidades y protección de información.
 
 > [!NOTE]
