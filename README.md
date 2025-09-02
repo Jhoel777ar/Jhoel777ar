@@ -99,6 +99,10 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge" />
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-000000?logo=sentry&style=for-the-badge" />
 </p>
+<audio controls>
+  <source src="https://example.com/audio.mp3" type="audio/mpeg">
+  Tu navegador no soporta audio.
+</audio>
 
 ---
 
