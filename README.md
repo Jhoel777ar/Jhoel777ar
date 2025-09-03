@@ -124,17 +124,8 @@
   Tu navegador no soporta audio.
 </audio>
 
-## 🎥 Demo en video
-
-<video src="https://arkdev.pages.dev/src/videogit.webm" 
-       controls 
-       autoplay 
-       loop 
-       muted 
-       playsinline 
-       width="600">
-  Tu navegador no soporta la reproducción de video.
-</video>
+## 🎥 Video Intro ARK DEV
+https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 
 ---
 
