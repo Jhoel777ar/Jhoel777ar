@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="http://g.dev/ark_dev"><img src="https://img.shields.io/badge/Google%20Dev-1E3A8A?logo=google&style=for-the-badge" alt="Google Dev" /></a>
-  <a href="https://arkdev.pages.dev/nosotros"><img src="https://img.shields.io/badge/ARK%20DEV-Fundador-1E3A8A?logo=about-dot-me&style=for-the-badge" alt="Fundador ARK DEV" /></a>
+  <a href="https://arkdev.pages.dev/nosotros"><img src="https://img.shields.io/badge/ARK%20DEV-CEO-1E3A8A?logo=about-dot-me&style=for-the-badge" alt="Fundador ARK DEV" /></a>
   <a href="https://github.com/ark-dev">
     <img src="https://komarev.com/ghpvc/?username=ark-dev&color=1E3A8A&style=for-the-badge&label=Vistas" alt="Profile Views" />
   </a>
