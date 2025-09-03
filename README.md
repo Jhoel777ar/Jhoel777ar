@@ -37,6 +37,11 @@
 
 ---
 
+## 🎥 Video Intro ARK DEV
+https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
+
+---
+
 ## 🌟 Sub-Marcas de ARK DEV
 
 > [!NOTE]
@@ -119,9 +124,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge" />
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-000000?logo=sentry&style=for-the-badge" />
 </p>
-
-## 🎥 Video Intro ARK DEV
-https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 
 ---
 
