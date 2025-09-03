@@ -18,6 +18,11 @@
 
 ---
 
+## 🎥 Video Intro ARK DEV
+https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
+
+---
+
 ## 🚀 Sobre Mí
 
 > [!NOTE]  
@@ -34,11 +39,6 @@
 
 > [!WARNING]  
 > La seguridad y privacidad de los datos deben ser prioridad al implementar sistemas con IA.
-
----
-
-## 🎥 Video Intro ARK DEV
-https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 
 ---
 
