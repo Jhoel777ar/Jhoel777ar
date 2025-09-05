@@ -136,5 +136,5 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
     <img src="https://img.icons8.com/windows/48/1E3A8A/linkedin.png" width="32" alt="LinkedIn" />
   </a>
 </p>
-
+https://github.com/Jhoel777ar/Jhoel777ar/issues/2#issue-3388730528
 <p align="center">Última Edición: 02/09/2025</p>
