@@ -196,17 +196,6 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,reactnative" alt="Mobile Skills" />
 </p>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ark-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 ## 🌐 Conecta Conmigo
 
 <div align="center">
