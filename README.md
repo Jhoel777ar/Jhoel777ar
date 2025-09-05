@@ -136,5 +136,9 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
     <img src="https://img.icons8.com/windows/48/1E3A8A/linkedin.png" width="32" alt="LinkedIn" />
   </a>
 </p>
-https://github.com/user-attachments/assets/b8e00f4e-8192-46d3-9943-ad7d970a6a45
+
 <p align="center">Última Edición: 02/09/2025</p>
+---
+
+## 🎥 ARK DEV <>
+https://github.com/user-attachments/assets/b8e00f4e-8192-46d3-9943-ad7d970a6a45
