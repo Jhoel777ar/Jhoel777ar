@@ -14,8 +14,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/followers/ark-dev?style=for-the-badge&logo=github&logoColor=white&color=1f2937" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/ark-dev?style=for-the-badge&logo=github&logoColor=white&color=1f2937" alt="GitHub stars" />
     <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source Love" />
   </p>
 </div>
