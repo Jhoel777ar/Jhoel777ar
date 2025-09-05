@@ -140,5 +140,7 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 <p align="center">Última Edición: 02/09/2025</p>
 ---
 
-## 🎥 ARK DEV <>
+## For ARK DEV:  
+**Unidos construimos más, juntos logramos lo imposible.**  
+<>
 https://github.com/user-attachments/assets/b8e00f4e-8192-46d3-9943-ad7d970a6a45
