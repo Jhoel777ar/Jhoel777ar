@@ -22,11 +22,8 @@
 https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 
 ---
+[musicark.mp3](https://github.com/user-attachments/files/22180867/musicark.mp3)
 
-<audio controls>
-  <source src="https://github.com/user-attachments/files/22180867/musicark.mp3" type="audio/mpeg">
-  Tu navegador no soporta audio embebido.
-</audio>
 
 ## 🚀 Sobre Mí
 
