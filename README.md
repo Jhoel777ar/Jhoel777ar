@@ -88,12 +88,12 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
   <br><sub>Desarrollo de Software & IA</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://github.com/user-attachments/assets/210f3932-af5c-470b-8853-266a842b5225" alt="ARK DEV SOLUTIONS" width="100" />
+ <img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" alt="ARK DEV SOLUTIONS" width="100" />
   <br><strong>ARK DEV SOLUTIONS</strong>
   <br><sub>Soporte Técnico & Hardware</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" alt="ARK SECURE" width="100" />
+    <img src="https://github.com/user-attachments/assets/210f3932-af5c-470b-8853-266a842b5225" alt="ARK SECURE" width="100" />
   <br><strong>ARK SECURE</strong>
   <br><sub>Ciberseguridad & Auditorías</sub>
 </td>
