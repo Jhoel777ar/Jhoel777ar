@@ -83,12 +83,12 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://github.com/user-attachments/assets/cd2111a5-eee3-4f74-8079-41445839f8dd" alt="ARK DEV SYSTEM" width="100" />
+   <img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" alt="ARK DEV SYSTEM" width="100" />
   <br><strong>ARK DEV SYSTEM</strong>
   <br><sub>Desarrollo de Software & IA</sub>
 </td>
 <td align="center" width="25%">
- <img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" alt="ARK DEV SOLUTIONS" width="100" />
+   <img src="https://github.com/user-attachments/assets/cd2111a5-eee3-4f74-8079-41445839f8dd" alt="ARK DEV SOLUTIONS" width="100" />
   <br><strong>ARK DEV SOLUTIONS</strong>
   <br><sub>Soporte Técnico & Hardware</sub>
 </td>
