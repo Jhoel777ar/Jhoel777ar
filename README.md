@@ -83,22 +83,22 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/nolan/64/code.png" alt="System" />
+  <img src="https://github.com/user-attachments/assets/cd2111a5-eee3-4f74-8079-41445839f8dd" alt="ARK DEV SYSTEM" width="100" />
   <br><strong>ARK DEV SYSTEM</strong>
   <br><sub>Desarrollo de Software & IA</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/nolan/64/maintenance.png" alt="Solutions" />
+  <img src="https://github.com/user-attachments/assets/210f3932-af5c-470b-8853-266a842b5225" alt="ARK DEV SOLUTIONS" width="100" />
   <br><strong>ARK DEV SOLUTIONS</strong>
   <br><sub>Soporte Técnico & Hardware</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/nolan/64/security-checked.png" alt="Secure" />
+  <img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" alt="ARK SECURE" width="100" />
   <br><strong>ARK SECURE</strong>
   <br><sub>Ciberseguridad & Auditorías</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/nolan/64/dna.png" alt="Bio" />
+  <img src="https://img.icons8.com/nolan/64/dna.png" alt="ARK BIO" width="100" />
   <br><strong>ARK BIO</strong>
   <br><sub>Biotecnología (Próximamente)</sub>
 </td>
@@ -106,15 +106,15 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
 </table>
 
 > [!NOTE]
-> [**ARK DEV SYSTEM**](https://arkdev.pages.dev/nosotros)
+> [**ARK DEV SYSTEM**](https://arkdev.pages.dev/nosotros)  
 > Desarrollo de **software avanzado** con integración de IA, automatización y análisis de datos.
 
 > [!NOTE]
-> [**ARK DEV SOLUTIONS**](https://arkdev.pages.dev/ark_dev_solutions)
+> [**ARK DEV SOLUTIONS**](https://arkdev.pages.dev/ark_dev_solutions)  
 > **Mantenimiento técnico especializado**, instalación de software y soporte profesional.
 
 > [!NOTE]
-> [**ARK SECURE**](https://arkdev.pages.dev/ark_secure)
+> [**ARK SECURE**](https://arkdev.pages.dev/ark_secure)  
 > **Ciberseguridad integral**, auditorías éticas, pentesting y protección de infraestructura.
 
 > [!NOTE]
