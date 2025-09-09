@@ -98,7 +98,7 @@ https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
   <br><sub>Ciberseguridad & Auditorías</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/nolan/64/dna.png" alt="ARK BIO" width="100" />
+ <img width="707" height="707" alt="Image" src="https://github.com/user-attachments/assets/a2ce5ba5-3e2e-4e73-ae28-8f4c2fc97c59" />
   <br><strong>ARK BIO</strong>
   <br><sub>Biotecnología (Próximamente)</sub>
 </td>
