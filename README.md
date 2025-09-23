@@ -16,6 +16,12 @@
   <p>
     <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source Love" />
   </p>
+
+  <p>
+    <a href="https://ko-fi.com/jhoelandres" target="_blank">
+      <img src="https://img.shields.io/badge/☕ Invítame_un_café-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Invítame un café" />
+    </a>
+  </p>
 </div>
 
 <br />
