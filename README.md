@@ -29,7 +29,18 @@
 
 ## 🎬 Showcase
 
-https://github.com/user-attachments/assets/799bfa6a-abe6-41c1-9678-c1eef6000a89
+<div align="center">
+
+<!-- Miniatura o GIF del video -->
+<a href="https://github.com/user-attachments/assets/799bfa6a-abe6-41c1-9678-c1eef6000a89">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       alt="Demo ARK DEV" width="600" />
+</a>
+
+<p><strong>🔗 Haz clic en la imagen para ver el video completo</strong></p>
+
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation" />
