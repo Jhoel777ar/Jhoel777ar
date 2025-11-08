@@ -27,9 +27,9 @@
 
 <br />
 
-## 🎬 ARK DEV Showcase
+## 🎬 Showcase
 
-https://github.com/user-attachments/assets/db9e797f-3255-492f-86e2-9dbefdc13f18
+https://github.com/user-attachments/assets/799bfa6a-abe6-41c1-9678-c1eef6000a89
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation" />
