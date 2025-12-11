@@ -226,6 +226,7 @@ https://github.com/user-attachments/assets/799bfa6a-abe6-41c1-9678-c1eef6000a89
   **⚡ For ARK DEV ⚡**
   
   <sub>Última Edición: 05/09/2025</sub>
+   <sub>Music: Hardwell – We Are One</sub>
 
 https://github.com/user-attachments/assets/b8e00f4e-8192-46d3-9943-ad7d970a6a45
 
