@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://arkdev.pages.dev/src/1001136218removebgpreview.png" alt="ARK DEV Logo" width="200" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=2500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=¡Hola%2C+soy+Joel+Andrés!+👋;CEO+%26+Full-Stack+Developer+at+ARK+DEV;Transformando+ideas+en+soluciones+tecnológicas)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=2500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi%2C+soy+Joel+Andrés+👋;CEO+de+ARK+DEV)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/joel-andres-c-090078345">
@@ -29,14 +29,6 @@
 </div>
 
 <br />
-
-## 🎬 Showcase
-
-https://github.com/user-attachments/assets/799bfa6a-abe6-41c1-9678-c1eef6000a89
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation" />
-</div>
 
 ## 🚀 Sobre Mí
 
@@ -110,10 +102,6 @@ const joelAndres = {
 
 > [!NOTE]  
 > CEO y fundador de **ARK DEV** (abril 2024), desarrollo proyectos avanzados integrando **IA conversacional** (Gemini, GPT-4, Claude, Deepseek, Ollama) en sistemas empresariales que interactúan directamente con los usuarios.
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoel777ar&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
 
 ## 💼 Servicios Profesionales
 
@@ -330,34 +318,17 @@ Real-time & Monitoring:
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
-        <img src="https://www.ark-dev.org/src/logoaj.png" alt="Ark Dev" height="60" />
+      <td align="center" width="33%">
+        <img src="https://www.ark-dev.org/src/logoaj.png" alt="Ark Dev" height="80" />
       </td>
-      <td align="center" width="20%">
-        <img src="https://melinazich.com/wp-content/uploads/2021/09/4-Logo-Jalasoft.png" alt="Jalasoft" height="60" />
+      <td align="center" width="33%">
+        <img src="https://www.ark-dev.org/src/arkdevorg.png" alt="ARK DEV ORG" height="80" />
       </td>
-      <td align="center" width="20%">
-        <img src="https://www.ark-dev.org/src/ajetex.png" alt="AJETEX" height="60" />
-      </td>
-      <td align="center" width="20%">
-        <img src="https://andinaenergy.com/wp-content/uploads/2024/03/ENERGY-1.png" alt="Andina Energy" height="60" />
-      </td>
-      <td align="center" width="20%">
-        <img src="https://camcuotas.camsa.com.bo:18643/img/logo_camsa_blanco.png" alt="CAMSA" height="60" style="background: #333; padding: 10px; border-radius: 8px;" />
+      <td align="center" width="33%">
+        <img src="https://www.ark-dev.org/src/ajetex.png" alt="AJETEX" height="80" />
       </td>
     </tr>
   </table>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhoel777ar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel777ar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhoel777ar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ## 🌐 Conecta Conmigo
@@ -393,11 +364,6 @@ Real-time & Monitoring:
   **"Unidos construimos más, juntos logramos lo imposible."**  
   
   **⚡ For ARK DEV ⚡**
-  
-  <sub>Última Actualización: 31 de Enero, 2026</sub>  
-  <sub>🎵 Music: Hardwell – We Are One</sub>
-
-https://github.com/user-attachments/assets/b8e00f4e-8192-46d3-9943-ad7d970a6a45
 
 </div>
 
