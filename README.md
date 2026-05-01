@@ -348,6 +348,7 @@ Real-time & Monitoring:
   [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~joelandres)
   [![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=daily-dot-dev&logoColor=white)](https://app.daily.dev/joelandres)
   [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ark_dev)
+  [![Stack Overflow](https://shields.io)](https://stackoverflow.com/users/31984444/joel-andres-c)
   
 </div>
 
