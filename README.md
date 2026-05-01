@@ -350,7 +350,6 @@ Real-time & Monitoring:
   [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ark_dev)
   [![Stack Exchange](https://shields.io)](https://stackexchange.com/users/44881651/joel-andres-c)
 
-  
 </div>
 
 <div align="center">
