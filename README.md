@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:3B82F6&height=200&section=header&text=ARK%20DEV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Joel%20Andr%C3%A9s%20%E2%80%94%20CEO%20%26%20Full-Stack%20Engineer&descAlignY=80&descSize=18&descColor=93c5fd" />
-
-<br />
-
 <img src="https://github.com/user-attachments/assets/0ccfddbb-cb38-4ccc-92ed-d608ff4043c3" width="110" alt="ARK DEV Logo" />
 
 <br /><br />
