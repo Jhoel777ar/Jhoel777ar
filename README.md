@@ -1,373 +1,314 @@
 <div align="center">
-  <img src="https://arkdev.pages.dev/src/1001136218removebgpreview.png" alt="ARK DEV Logo" width="200" />
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=2500&color=3B82F6&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi%2C+soy+Joel+Andrés+👋;CEO+de+ARK+DEV)](https://git.io/typing-svg)
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/joel-andres-c-090078345">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://g.dev/ark_dev">
-      <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
-    </a>
-    <a href="https://www.ark-dev.org">
-      <img src="https://img.shields.io/badge/ARK%20DEV-CEO-3B82F6?style=for-the-badge&logo=rocket&logoColor=white" alt="CEO ARK DEV" />
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jhoel777ar&color=3B82F6&style=for-the-badge&label=Visitas+al+Perfil" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Jhoel777ar?style=for-the-badge&color=3B82F4&logo=github&label=Seguidores" alt="GitHub Followers" />
-    <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source Love" />
-  </p>
-
-  <p align="center">
-    <a href="https://ko-fi.com/jhoelandres" target="_blank">
-      <img src="https://img.shields.io/badge/☕_Apóyame_con_un_café-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-    </a>
-  </p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/your-user-id/0ccfddbb-cb38-4ccc-92ed-d608ff4043c3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/your-user-id/0ccfddbb-cb38-4ccc-92ed-d608ff4043c3" />
+  <img src="https://github.com/user-attachments/assets/0ccfddbb-cb38-4ccc-92ed-d608ff4043c3" alt="ARK DEV" width="120" />
+</picture>
 
 <br />
 
-## 🚀 Sobre Mí
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&duration=2200&pause=2800&color=3B82F6&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Joel+Andrés+—+CEO+%26+Engineer;Building+the+future+at+ARK+DEV)](https://git.io/typing-svg)
 
-<table>
-<tr>
-<td width="60%">
+<br />
 
-```typescript
-const joelAndres = {
-  ubicacion: "📍 Providencia, Santiago, Chile",
-  rol: "CEO & Full-Stack Developer @ ARK DEV",
-  fundacion: "Abril 2024",
-  formacion: "Ingeniero de Sistemas",
-  
-  especialidades: {
-    desarrollo: [
-      "Desarrollo Web Enterprise",
-      "Sistemas Locales Personalizados",
-      "Arquitectura de Software Escalable"
-    ],
-    tecnologias: {
-      backend: ["Laravel 11", "Livewire 3", "FilamentPHP", ".NET 8", "Node.js"],
-      frontend: ["React", "Next.js 14/15", "Vue.js 3", "TypeScript"],
-      ai: ["OpenAI", "Gemini", "Claude", "Ollama", "TensorFlow", "PyTorch"],
-      mobile: ["Flutter", "React Native", "Kotlin", "Swift"]
-    },
-    seguridad: [
-      "Palo Alto Networks Certified",
-      "Pentesting & Ethical Hacking",
-      "SOC Analysis",
-      "OWASP Top 10"
-    ],
-    multimedia: [
-      "DaVinci Resolve",
-      "Adobe Creative Suite",
-      "After Effects",
-      "Audio Production"
-    ]
+<a href="https://www.linkedin.com/in/joel-andres-c-090078345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.ark-dev.org"><img src="https://img.shields.io/badge/ARK%20DEV-3B82F6?style=flat-square&logo=vercel&logoColor=white" /></a>
+&nbsp;
+<a href="https://g.dev/ark_dev"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:ceo@ark-dev.org"><img src="https://img.shields.io/badge/ceo@ark--dev.org-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://ko-fi.com/jhoelandres"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Jhoel777ar&color=3B82F6&style=flat-square&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Jhoel777ar?style=flat-square&color=3B82F6&logo=github&label=Followers" />
+
+</div>
+
+---
+
+```ts
+const joel = {
+  location   : "Providencia, Santiago — Chile",
+  role       : "CEO & Full-Stack Engineer @ ARK DEV",
+  founded    : "April 2024",
+  background : "Systems Engineer",
+
+  focus: [
+    "Enterprise Web Development",
+    "Applied AI & LLM Integration",
+    "Cybersecurity & Infrastructure",
+    "Scalable Software Architecture",
+  ],
+
+  stack: {
+    backend  : ["Laravel 11", "Livewire 3", "FilamentPHP", ".NET 8", "Node.js", "FastAPI"],
+    frontend : ["Next.js 15", "React", "Vue 3", "TypeScript", "Tailwind CSS"],
+    ai       : ["GPT-4o", "Gemini Pro", "Claude 3.5", "Llama 3", "Deepseek", "Ollama"],
+    mobile   : ["Flutter", "React Native", "Kotlin", "Swift"],
+    infra    : ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "Redis"],
   },
-  
-  filosofia: "Transformando ideas en soluciones tecnológicas innovadoras"
+
+  security: ["Palo Alto Certified", "Pentesting", "SOC Analysis", "OWASP Top 10"],
+
+  philosophy: "Ship fast. Build to last. Leave the code better than you found it.",
 };
 ```
 
-</td>
-<td width="40%">
+---
 
-### 🎯 Highlights
-
-- 🏆 **CEO de ARK DEV** (2024)
-- 🌐 **Ingeniero de Sistemas**
-- 🤖 Especialista en **IA Aplicada**
-- 🔐 **Ciberseguridad Enterprise**
-- 🎨 **UX/UI Designer**
-- 🎬 **Editor Profesional**
-- 🔧 **Hardware Specialist**
-- 📦 **NPM Package Developer**
-
-### 🌟 Programas Dev
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoft-azure" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google-Developer-4285F4?style=flat-square&logo=google" alt="Google" />
-  <img src="https://img.shields.io/badge/Nvidia-Developer-76B900?style=flat-square&logo=nvidia" alt="Nvidia" />
-  <img src="https://img.shields.io/badge/AWS-Partner-FF9900?style=flat-square&logo=amazon-aws" alt="AWS" />
-</p>
-
-</td>
-</tr>
-</table>
-
-> [!NOTE]  
-> CEO y fundador de **ARK DEV** (abril 2024), desarrollo proyectos avanzados integrando **IA conversacional** (Gemini, GPT-4, Claude, Deepseek, Ollama) en sistemas empresariales que interactúan directamente con los usuarios.
-
-## 💼 Servicios Profesionales
+## Services
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 💻 Desarrollo Web Enterprise
+**Enterprise Web**
 
-Sitios web modernos y funcionales con **arquitecturas escalables**. Cada proyecto cuida el diseño, animaciones y experiencia premium adaptada a cualquier dispositivo.
+Modern, high-performance web systems — from architecture to deployment. Every layer is optimized: design, animation, accessibility, and scale.
 
-**Stack Principal:**
-- React, Next.js 14/15, Vue.js 3
-- Laravel 11, Livewire 3, FilamentPHP
-- .NET 8, Node.js, Express.js
-- TypeScript, Python, PHP 8.3
+`Next.js` · `Laravel` · `TypeScript` · `.NET 8`
 
 </td>
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔧 Sistemas Locales Personalizados
+**Custom Business Systems**
 
-Desarrollo de **sistemas de gestión** y soluciones a medida para negocios. Sistemas confiables, rápidos y diseñados para optimizar operaciones.
+ERP, CRM, inventory, and workflow automation built specifically for your operations. Fast, reliable, purpose-built.
 
-**Especialidades:**
-- ERP/CRM Personalizados
-- Sistemas de Inventario
-- Gestión Empresarial
-- Automatización de Procesos
+`FilamentPHP` · `Livewire` · `PostgreSQL` · `Redis`
 
 </td>
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔐 Hardware & Ciberseguridad
+**Cybersecurity & Hardware**
 
-Servicio técnico especializado y **consultoría en seguridad digital** para proteger información, sistemas y redes contra amenazas avanzadas.
+Ethical pentesting, SOC analysis, infrastructure hardening, and specialized hardware support.
 
-**Servicios:**
-- Pentesting & Ethical Hacking
-- SOC Analysis & Monitoring
-- Hardware Optimization
-- Security Audits (OWASP, NIST)
+`Palo Alto` · `Metasploit` · `Burp Suite` · `OWASP`
 
 </td>
 </tr>
 </table>
 
-## 🌟 Ecosistema ARK DEV
+---
+
+## ARK DEV Ecosystem
 
 <table>
 <tr>
 <td align="center" width="25%">
-   <img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" alt="ARK DEV SYSTEM" width="100" />
-  <br><strong>ARK DEV SYSTEM</strong>
-  <br><sub>Desarrollo de Software & IA</sub>
+<img src="https://github.com/user-attachments/assets/25c12874-b276-493d-bf6e-e76243d8ea97" width="72" /><br />
+<strong>ARK DEV SYSTEM</strong><br />
+<sub>Software & AI Development</sub>
 </td>
 <td align="center" width="25%">
-   <img src="https://github.com/user-attachments/assets/cd2111a5-eee3-4f74-8079-41445839f8dd" alt="ARK DEV SOLUTIONS" width="100" />
-  <br><strong>ARK DEV SOLUTIONS</strong>
-  <br><sub>Soporte Técnico & Hardware</sub>
+<img src="https://github.com/user-attachments/assets/cd2111a5-eee3-4f74-8079-41445839f8dd" width="72" /><br />
+<strong>ARK DEV SOLUTIONS</strong><br />
+<sub>Technical Support & Hardware</sub>
 </td>
 <td align="center" width="25%">
-    <img src="https://github.com/user-attachments/assets/210f3932-af5c-470b-8853-266a842b5225" alt="ARK SECURE" width="100" />
-  <br><strong>ARK SECURE</strong>
-  <br><sub>Ciberseguridad & Auditorías</sub>
+<img src="https://github.com/user-attachments/assets/210f3932-af5c-470b-8853-266a842b5225" width="72" /><br />
+<strong>ARK SECURE</strong><br />
+<sub>Cybersecurity & Audits</sub>
 </td>
 <td align="center" width="25%">
- <img width="100" height="100" alt="ARK BIO" src="https://github.com/user-attachments/assets/a2ce5ba5-3e2e-4e73-ae28-8f4c2fc97c59" />
-  <br><strong>ARK BIO</strong>
-  <br><sub>Biotecnología (Q2 2025)</sub>
+<img src="https://github.com/user-attachments/assets/a2ce5ba5-3e2e-4e73-ae28-8f4c2fc97c59" width="72" /><br />
+<strong>ARK BIO</strong><br />
+<sub>Biotechnology — Q2 2025</sub>
 </td>
 </tr>
 </table>
 
-> [!NOTE]
-> **[ARK DEV SYSTEM](https://www.ark-dev.org/nosotros)** — Desarrollo de software avanzado con integración de IA, automatización y análisis de datos.
+> **[ARK DEV SYSTEM](https://www.ark-dev.org/nosotros)** — Advanced software with AI integration, automation, and data analytics.\
+> **[ARK DEV SOLUTIONS](https://www.ark-dev.org/ark_dev_solutions)** — Expert technical maintenance, software deployment, and professional support.\
+> **[ARK SECURE](https://www.ark-dev.org/ark_secure)** — End-to-end cybersecurity: ethical hacking, audits, and infrastructure protection.\
+> **ARK BIO** — Biotech & scientific innovation. Launching soon.
 
-> [!NOTE]
-> **[ARK DEV SOLUTIONS](https://www.ark-dev.org/ark_dev_solutions)** — Mantenimiento técnico especializado, instalación de software y soporte profesional.
+---
 
-> [!NOTE]
-> **[ARK SECURE](https://www.ark-dev.org/ark_secure)** — Ciberseguridad integral, auditorías éticas, pentesting y protección de infraestructura.
-
-> [!NOTE]
-> **ARK BIO (Q2 2025)** — Próximo lanzamiento enfocado en biotecnología e innovación científica.
-
-## 🤖 Inteligencia Artificial & Machine Learning
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200" alt="AI Animation" />
-</div>
-
-### 🧠 Tecnologías IA Implementadas
+## AI & Machine Learning
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Modelos & Frameworks:**
-- 🧠 **LLMs**: GPT-4, Gemini Pro, Claude 3.5, Llama 2/3, Deepseek
-- 🔧 **Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- 🔗 **Integration**: Langchain, LlamaIndex, Ollama
-- 💾 **Vector DBs**: Pinecone, Weaviate, ChromaDB
+**Models & Frameworks**
+
+- LLMs: GPT-4o, Gemini Pro, Claude 3.5, Llama 3, Deepseek, Mistral
+- Frameworks: TensorFlow · PyTorch · Scikit-learn
+- Orchestration: LangChain · LlamaIndex · Ollama
+- Vector DBs: Pinecone · Weaviate · ChromaDB
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Aplicaciones:**
-- 💬 Chatbots Inteligentes & NLP
-- 📊 Analytics Predictivos
-- 🔍 Computer Vision & OCR
-- 🎯 Sistemas de Recomendación
-- ⚡ RPA & Automatización
-- 🗣️ Voice Recognition & TTS
+**Applications**
+
+- Intelligent chatbots & NLP pipelines
+- Predictive analytics & dashboards
+- Computer Vision & OCR
+- Recommendation engines
+- RPA & process automation
+- Voice recognition & TTS
 
 </td>
 </tr>
 </table>
 
-### ☁️ Infraestructura Cloud & DevOps
+---
+
+## Cloud & DevOps
 
 ```yaml
-Cloud Providers:
-  - AWS: [SES, S3, Lambda, EC2, RDS]
-  - Google Cloud: [Cloud Run, Cloud Functions, BigQuery]
-  - Azure: [App Service, Functions, AI Services]
-  
-Hosting & Deploy:
-  - Hostinger VPS | Railway | Laravel Cloud
-  - Laravel Forge | Dockploy | Vercel
-  
-Real-time & Monitoring:
-  - Pusher Channels | Socket.io
-  - Sentry (Error Tracking)
-  - Redis (Caching & Queue)
+Cloud:
+  AWS     : [EC2, S3, Lambda, SES, RDS]
+  GCP     : [Cloud Run, Cloud Functions, BigQuery]
+  Azure   : [App Service, Functions, AI Services]
+
+Deploy:
+  - Hostinger VPS · Railway · Laravel Forge
+  - Dockploy · Vercel · Laravel Cloud
+
+Observability:
+  - Sentry (error tracking)
+  - Redis (cache & queue)
+  - Pusher · Socket.io (real-time)
 ```
 
-> [!TIP]  
-> Siempre integro pruebas de IA en entornos controlados antes de producción para garantizar calidad y seguridad.
+---
 
-> [!WARNING]  
-> La seguridad y privacidad de los datos son prioridad absoluta en todos mis proyectos con IA.
+## Tech Stack
 
-## 💻 Tech Stack Completo
-
-### 🎨 Frontend & UI/UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,angular,html,css,sass,tailwind,materialui,figma" alt="Frontend Skills" />
+**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,html,css,sass,tailwind,figma,ts" />
 </p>
 
-### ⚡ Animaciones & 3D
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/Lottie-05C4EB?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Lottie" />
+**Animations & 3D**
+<p>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Lottie-05C4EB?style=flat-square&logoColor=white" />
 </p>
 
-### 🔧 Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,dotnet,python,django,fastapi,php,ruby,go,rust" alt="Backend Skills" />
+**Backend & APIs**
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,dotnet,python,fastapi,php,go" />
 </p>
 
-### 🗄️ Bases de Datos & Cache
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" alt="Database Skills" />
+**Databases & Cache**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" />
 </p>
 
-### 🤖 IA & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+**AI & ML**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 
-### 🔐 Ciberseguridad & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab" alt="DevOps Skills" />
+**DevOps & Security**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,bash,git,github,gitlab" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-0080C7?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Palo%20Alto-FF6600?style=flat-square&logo=paloaltonetworks&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-0080C7?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Palo%20Alto-FF6600?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+**Mobile**
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" />
 </p>
 
-### 📱 Mobile & Cross-Platform
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,reactnative" alt="Mobile Skills" />
+**Design & Multimedia**
+<p>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
 </p>
 
-### 🎨 Diseño & Multimedia
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white" alt="Audition" />
-</p>
+---
 
-## 🏢 Empresas & Colaboraciones
+## Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://www.ark-dev.org/src/logoaj.png" alt="Ark Dev" height="80" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://www.ark-dev.org/src/arkdevorg.png" alt="ARK DEV ORG" height="80" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://www.ark-dev.org/src/ajetex.png" alt="AJETEX" height="80" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-## 🌐 Conecta Conmigo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jhoel777ar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jhoel777ar&show_icons=true&theme=default&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhoel777ar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel777ar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel777ar&layout=compact&theme=default&hide_border=true&title_color=1d4ed8&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel777ar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=8" height="180" />
+</picture>
 
-<div align="center">
-  
-  [![Website](https://img.shields.io/badge/🌐_ARK_DEV-1E3A8A?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://www.ark-dev.org)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-andres-c-090078345)
-  [![Email](https://img.shields.io/badge/Email_CEO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@ark-dev.org)
-  [![Calendar](https://img.shields.io/badge/Agendar_Consultoría-3B82F6?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/ark-dev)
-  
-</div>
+<br /><br />
 
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhoel777ar)
-  [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~joelandres)
-  [![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=daily-dot-dev&logoColor=white)](https://app.daily.dev/joelandres)
-  [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ark_dev)
-  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31984444/joel-andres-c?tab=profile)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jhoel777ar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jhoel777ar&theme=default&hide_border=true&ring=1d4ed8&fire=1d4ed8&currStreakLabel=1d4ed8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoel777ar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="180" />
+</picture>
 
 </div>
 
+---
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jhoel777ar&theme=github-compact&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jhoel777ar&theme=minimal&hide_border=true&color=1d4ed8&line=1d4ed8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoel777ar&theme=github-compact&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true" width="100%" />
+</picture>
+
+---
+
+## Connect
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Footer Animation" />
+
+[![Website](https://img.shields.io/badge/ark--dev.org-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ark-dev.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-andres-c-090078345)
+[![Calendar](https://img.shields.io/badge/Book%20a%20Call-3B82F6?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/ark-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhoel777ar)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~joelandres)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31984444)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Filosofía ARK DEV
-  
-  **"Unidos construimos más, juntos logramos lo imposible."**  
-  
-  **⚡ For ARK DEV ⚡**
 
-</div>
+<sub>**"Unidos construimos más, juntos logramos lo imposible."**</sub>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer Wave" />
+<br />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3B82F6&height=80&section=footer&reversal=false)
+
 </div>
