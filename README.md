@@ -4,7 +4,7 @@
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=2800&color=3B82F6&center=true&vCenter=true&multiline=true&width=860&height=90&lines=Full-Stack+Engineer+%7C+AI+Architect+%7C+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=2800&color=3B82F6&center=true&vCenter=true&multiline=true&width=860&height=90&lines=Full-Stack+Engineer+%7C+AI+Architect+%7C+Cybersecurity;CEO+%40+ARK+DEV)](https://git.io/typing-svg)
 
 <br />
 
