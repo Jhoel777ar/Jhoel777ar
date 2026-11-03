@@ -1,18 +1,12 @@
-<!-- Perfil: github.com/Jhoel777ar — repositorio Jhoel777ar/Jhoel777ar, archivo README.md -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:3B82F6&height=190&section=header&text=Joel%20Andr%C3%A9s%20C.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CEO%20%26%20Full-Stack%20Engineer%20%C2%B7%20ARK%20DEV&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Joel Andrés C. — CEO & Full-Stack Engineer · ARK DEV" />
-
-<img src="https://github.com/user-attachments/assets/0ccfddbb-cb38-4ccc-92ed-d608ff4043c3" width="96" alt="ARK DEV" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1400&color=60A5FA&center=true&vCenter=true&width=720&height=46&lines=Ingeniero+Full-Stack;Integraci%C3%B3n+de+IA+en+aplicaciones+web;Ciberseguridad+y+Ethical+Hacking;Fundador+%26+CEO+%40+ARK+DEV" alt="Typing SVG" /></a>
+<img src="assets/header.svg" width="100%" alt="Joel Andrés C. — CEO de ARK DEV · Ingeniero Full-Stack" />
 
 <br />
 
-<a href="https://www.ark-dev.org"><img src="https://img.shields.io/badge/ark--dev.org-0f172a?style=for-the-badge&logo=rocket&logoColor=3B82F6" alt="Sitio web" /></a>
+<a href="https://www.ark-dev.org"><img src="https://img.shields.io/badge/ark--dev.org-0f172a?style=for-the-badge&logo=rocket&logoColor=3B82F6" alt="ARK DEV" /></a>
 <a href="https://www.linkedin.com/in/joel-andres-c-090078345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/@drax-jc"><img src="https://img.shields.io/badge/YouTube-drax--jc-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube drax-jc" /></a>
+<a href="https://www.youtube.com/@drax-jc"><img src="https://img.shields.io/badge/YouTube-drax--jc-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://g.dev/ark_dev"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" /></a>
 <a href="mailto:ceo@ark-dev.org"><img src="https://img.shields.io/badge/Email-ceo%40ark--dev.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://cal.com/ark-dev"><img src="https://img.shields.io/badge/Agendar_llamada-3B82F6?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Agendar llamada" /></a>
@@ -27,138 +21,85 @@
 
 <br />
 
-## `> whoami`
+## Sobre mí
 
-```typescript
-const joel = {
-  nombre   : "Joel Andrés C.",
-  rol      : "Fundador & CEO @ ARK DEV",
-  fundada  : "14 de abril de 2024 — Santiago, Chile",
-  operando : ["Santiago, Chile", "La Paz, Bolivia"],
-  formacion: "Ingeniero de Sistemas",
-  enfoque  : ["Aplicaciones web con IA", "Ciberseguridad", "Software a medida"],
-  canales  : { web: "ark-dev.org", youtube: "@drax-jc", youtubeEmpresa: "@ark-dev-org" },
-  filosofia: "Unidos construimos más, juntos logramos lo imposible.",
-};
-```
+Soy **Joel Andrés**, ingeniero de sistemas y CEO de [**ARK DEV**](https://www.ark-dev.org), consultora de software, IA y ciberseguridad fundada en Santiago (Chile) en 2024, con operación también en La Paz (Bolivia). Construyo aplicaciones web con IA integrada, de la arquitectura al despliegue. También publico contenido en [YouTube](https://www.youtube.com/@drax-jc).
 
-Construyo aplicaciones web con IA integrada y dirijo **ARK DEV**, una consultora tecnológica con operación en Chile y Bolivia. Trabajo de punta a punta: arquitectura, backend, frontend, despliegue y seguridad.
+> [!NOTE]
+> ¿Un proyecto en mente? Escríbeme a **ceo@ark-dev.org** o [agenda una llamada](https://cal.com/ark-dev).
 
 <br />
 
-## Ecosistema ARK DEV
-
-```mermaid
-flowchart LR
-    A([ARK DEV]):::root --> S[ARK DEV SYSTEM<br/>Software · IA · Datos]
-    A --> L[ARK DEV SOLUTIONS<br/>Soporte · Hardware · Mantenimiento]
-    A --> C[ARK SECURE<br/>Ciberseguridad · Auditorías]
-    A --> B[ARK BIO<br/>Biotecnología · en desarrollo]
-    A --> W[ARK WINDOWS<br/>Fork de Windows 11]
-    classDef root fill:#1e3a8a,stroke:#60a5fa,color:#ffffff;
-```
+## Stack
 
 <div align="center">
 
-| División | Enfoque |
-|:--|:--|
-| **[ARK DEV SYSTEM](https://www.ark-dev.org/ark_dev_system.html)** | Ingeniería de software · Integración de IA · Analítica de datos |
-| **[ARK DEV SOLUTIONS](https://www.ark-dev.org/ark_dev_solutions.html)** | Soporte técnico · Hardware · Mantenimiento |
-| **[ARK SECURE](https://www.ark-dev.org/ark_secure.html)** | Ciberseguridad · Ethical hacking · Auditorías de seguridad |
-| **[ARK BIO](https://www.ark-dev.org/ark_bio.html)** | Biotecnología · Innovación científica *(en desarrollo)* |
-| **[ARK WINDOWS](https://www.ark-dev.org/ark_windows.html)** | Fork de Windows 11 orientado a usuarios técnicos |
+**Frontend**<br />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 
-[Docs](https://docs.ark-dev.org/) · [Newsletter](https://blog.ark-dev.org/) · [Organización en GitHub](https://github.com/ARK-DEV-ORG) · [Canal de la empresa](https://www.youtube.com/@ark-dev-org)
+**Backend**<br />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-</div>
+**IA**<br />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 
-<br />
+**Datos & Cloud**<br />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 
-## Stack técnico
-
-<div align="center">
-
-**Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,ts,js,tailwind,html,css,sass,figma" alt="Frontend" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,nestjs,dotnet,python,fastapi" alt="Backend" />
-
-**Datos**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,firebase,supabase" alt="Bases de datos" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,bash,git,github,nginx" alt="DevOps" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode" alt="Mobile" />
+**Ciberseguridad**<br />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Metasploit-2f6fb5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 
 </div>
 
 <details>
-<summary><b>Ver detalle por área</b></summary>
+<summary><b>Ver stack completo</b></summary>
 
 <br />
 
 | Área | Tecnologías |
 |:--|:--|
 | **Backend** | Laravel 11 · Livewire 3 · FilamentPHP · .NET 8 · Node.js · FastAPI · Express · NestJS |
-| **Frontend** | React · Next.js 15 · Vue 3 · Nuxt · Svelte · TypeScript |
-| **Animación & 3D** | GSAP · Framer Motion · Three.js · WebGL · Lottie · Rive |
+| **Frontend** | React · Next.js 15 · Vue 3 · Nuxt · Svelte · TypeScript · GSAP · Three.js · WebGL |
 | **IA** | OpenAI · Gemini · Claude · Llama 3 · Deepseek · Ollama · LangChain · LlamaIndex |
-| **Infra de IA** | Pinecone · ChromaDB · Weaviate · TensorFlow · PyTorch · Scikit-learn |
-| **Ciberseguridad** | Kali · Metasploit · Burp Suite · Wireshark · Nmap · Nessus · OWASP Top 10 · NIST |
-| **Cloud** | AWS (SES, S3, Lambda, EC2, RDS, CloudFront) · GCP (Cloud Run, Functions, BigQuery, Vertex AI) · Azure (App Service, Functions, AI Services) |
-| **Despliegue** | Hostinger VPS · Railway · Vercel · Laravel Cloud · Laravel Forge · Dockploy |
-| **Tiempo real** | Pusher Channels · Socket.io · WebSockets |
-| **Observabilidad & CI/CD** | Sentry · Redis · GitHub Actions · Docker Compose |
+| **Datos** | PostgreSQL · MySQL · MongoDB · Redis · SQLite · Supabase · Firebase · Pinecone · ChromaDB |
+| **Cloud & DevOps** | Docker · Kubernetes · AWS · GCP · Azure · Railway · Vercel · Forge · GitHub Actions |
+| **Seguridad** | Kali · Metasploit · Burp Suite · Wireshark · Nmap · Nessus · OWASP Top 10 · NIST |
+| **Mobile** | Flutter · React Native · Kotlin · Swift |
 | **Multimedia** | DaVinci Resolve · After Effects · Premiere Pro · Photoshop · Illustrator · Audition |
 
 </details>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<br />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-<img src="https://img.shields.io/badge/Palo_Alto_Networks-FF6600?style=flat-square&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-
-</div>
-
-<br />
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<a href="https://github.com/Jhoel777ar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jhoel777ar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=3B82F6&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-</a>
-<a href="https://github.com/Jhoel777ar?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel777ar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&langs_count=8" alt="Lenguajes más usados" />
-</a>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Jhoel777ar&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" alt="Racha de contribuciones" />
-
-</div>
 
 <br />
 
@@ -172,27 +113,6 @@ flowchart LR
   <img alt="Gráfico de contribuciones animado" src="https://raw.githubusercontent.com/Jhoel777ar/Jhoel777ar/output/github-snake.svg" />
 </picture>
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jhoel777ar&theme=react-dark&bg_color=0d1117&color=3B82F6&line=3B82F6&point=60A5FA&hide_border=true&area=true&area_color=1e3a8a" />
-  <img alt="Gráfico de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoel777ar&theme=minimal&hide_border=true&area=true" />
-</picture>
-
-</div>
-
-<br />
-
-## Plataformas con las que trabajo
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-
 </div>
 
 <br />
@@ -205,14 +125,13 @@ flowchart LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-andres-c-090078345)
 [![YouTube](https://img.shields.io/badge/YouTube-drax--jc-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@drax-jc)
 [![Email](https://img.shields.io/badge/ceo@ark--dev.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@ark-dev.org)
-[![Agendar](https://img.shields.io/badge/Agendar_llamada-3B82F6?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/ark-dev)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhoel777ar)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~joelandres)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31984444/joel-andres-c?tab=profile)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ark_dev)
-[![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=daily-dot-dev&logoColor=white)](https://app.daily.dev/joelandres)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/joelandres)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0f172a&height=110&section=footer&text=Unidos%20construimos%20m%C3%A1s%2C%20juntos%20logramos%20lo%20imposible.&fontSize=15&fontColor=93c5fd&animation=twinkling&fontAlignY=68" width="100%" alt="Unidos construimos más, juntos logramos lo imposible." />
+<br />
+
+<img src="assets/footer.svg" width="100%" alt="Unidos construimos más, juntos logramos lo imposible." />
