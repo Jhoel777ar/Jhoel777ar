@@ -178,9 +178,6 @@ Publico librerías de **criptografía post-cuántica en WebAssembly** en npm y c
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jhoel777ar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=60a5fa&icon_color=3B82F6&text_color=bfdbfe" height="165" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel777ar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=60a5fa&text_color=bfdbfe" height="165" alt="Lenguajes principales" />
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
