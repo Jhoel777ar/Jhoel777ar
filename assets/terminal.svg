@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Terminal animada: perfil de Joel Andrés C.">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e293b"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <style>
+      .m{font-family:ui-monospace,'JetBrains Mono',Menlo,Consolas,monospace;font-size:16px}
+      .p{fill:#60a5fa}.c{fill:#e2e8f0}.g{fill:#4ade80}.y{fill:#fbbf24}.d{fill:#94a3b8}
+      .l{opacity:0}
+      .l1{animation:show 14s infinite 0.2s}.l2{animation:show 14s infinite 1.6s}.l3{animation:show 14s infinite 3s}
+      .l4{animation:show 14s infinite 4.4s}.l5{animation:show 14s infinite 5.8s}.l6{animation:show 14s infinite 7.2s}.l7{animation:show 14s infinite 8.6s}
+      @keyframes show{0%{opacity:0}2%{opacity:1}92%{opacity:1}98%{opacity:0}100%{opacity:0}}
+      .cur{fill:#60a5fa;animation:blink 1s steps(2,start) infinite}
+      @keyframes blink{to{visibility:hidden}}
+    </style>
+  </defs>
+  <rect width="1000" height="300" rx="14" fill="#0b1020" stroke="#1e3a8a"/>
+  <path d="M0 14a14 14 0 0 1 14-14h972a14 14 0 0 1 14 14v26H0z" fill="url(#bar)"/>
+  <circle cx="26" cy="20" r="6" fill="#ef4444"/><circle cx="48" cy="20" r="6" fill="#f59e0b"/><circle cx="70" cy="20" r="6" fill="#22c55e"/>
+  <text x="500" y="25" text-anchor="middle" class="m d" style="font-size:13px">joel@ark-dev: ~</text>
+  <g class="m">
+    <g class="l l1"><text x="30" y="74"><tspan class="g">➜</tspan> <tspan class="p">~</tspan> <tspan class="c">whoami</tspan></text></g>
+    <g class="l l2"><text x="30" y="100" class="c">Joel Andrés C. — CEO @ ARK DEV · Ingeniero Full-Stack</text></g>
+    <g class="l l3"><text x="30" y="132"><tspan class="g">➜</tspan> <tspan class="p">~</tspan> <tspan class="c">cat focus.json</tspan></text></g>
+    <g class="l l4"><text x="30" y="158" class="y">{ "ia": ["agentes", "RAG", "MCP", "multi-agente"],</text></g>
+    <g class="l l5"><text x="30" y="182" class="y">  "stack": ["Next.js", "Laravel", ".NET", "FastAPI"],</text></g>
+    <g class="l l6"><text x="30" y="206" class="y">  "infra": ["Docker", "Kubernetes", "Dokploy"],</text></g>
+    <g class="l l7"><text x="30" y="230" class="y">  "seguridad": ["OWASP", "pentesting", "cripto post-cuántica"] }</text></g>
+    <g class="l l7"><text x="30" y="266"><tspan class="g">➜</tspan> <tspan class="p">~</tspan> <tspan class="c">build --with-ai --ship</tspan></text></g>
+  </g>
+  <rect x="330" y="252" width="9" height="18" class="cur"/>
+</svg>

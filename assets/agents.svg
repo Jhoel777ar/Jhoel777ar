@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" role="img" aria-label="Arquitectura de agentes de IA: orquestador, subagentes, herramientas MCP y despliegue">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060a1a"/><stop offset="100%" stop-color="#0f1e4a"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#1d4ed8"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#60a5fa" stroke-opacity="0.07"/>
+    </pattern>
+    <style>
+      .m{font-family:ui-monospace,'JetBrains Mono',Menlo,Consolas,monospace}
+      .box{fill:#0b1226;stroke:#3b82f6;stroke-width:1.5}
+      .t{font-size:13px;font-weight:700;fill:#e0f2fe;text-anchor:middle}
+      .d{font-size:10.5px;fill:#93c5fd;text-anchor:middle}
+      .lbl{font-size:11px;fill:#60a5fa;letter-spacing:3px;font-weight:700}
+      .flow{fill:none;stroke:#60a5fa;stroke-width:1.6;stroke-dasharray:6 6;animation:dash 1.4s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-24}}
+      .pulse{animation:pulse 2.4s ease-in-out infinite;transform-origin:500px 210px}
+      @keyframes pulse{0%,100%{transform:scale(1);opacity:.35}50%{transform:scale(1.35);opacity:0}}
+    </style>
+  </defs>
+  <rect width="1000" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="420" rx="18" fill="url(#grid)"/>
+  <text x="30" y="36" class="m lbl">AGENTIC · WORKFLOW</text>
+
+  <!-- conexiones -->
+  <g>
+    <path id="p1" class="flow" d="M500 210 L150 95"/>
+    <path id="p2" class="flow" d="M500 210 L350 80"/>
+    <path id="p3" class="flow" d="M500 210 L650 80"/>
+    <path id="p4" class="flow" d="M500 210 L850 95"/>
+    <path id="p5" class="flow" d="M500 210 L150 335"/>
+    <path id="p6" class="flow" d="M500 210 L350 350"/>
+    <path id="p7" class="flow" d="M500 210 L650 350"/>
+    <path id="p8" class="flow" d="M500 210 L850 335"/>
+  </g>
+  <!-- paquetes de datos viajando -->
+  <g fill="#bfdbfe">
+    <circle r="3.5"><animateMotion dur="3s" repeatCount="indefinite" path="M500 210 L150 95"/></circle>
+    <circle r="3.5"><animateMotion dur="2.6s" repeatCount="indefinite" path="M350 80 L500 210"/></circle>
+    <circle r="3.5"><animateMotion dur="3.2s" repeatCount="indefinite" path="M500 210 L650 80"/></circle>
+    <circle r="3.5"><animateMotion dur="2.8s" repeatCount="indefinite" path="M850 95 L500 210"/></circle>
+    <circle r="3.5"><animateMotion dur="3.4s" repeatCount="indefinite" path="M150 335 L500 210"/></circle>
+    <circle r="3.5"><animateMotion dur="2.5s" repeatCount="indefinite" path="M500 210 L350 350"/></circle>
+    <circle r="3.5"><animateMotion dur="3.1s" repeatCount="indefinite" path="M650 350 L500 210"/></circle>
+    <circle r="3.5"><animateMotion dur="2.9s" repeatCount="indefinite" path="M500 210 L850 335"/></circle>
+  </g>
+
+  <!-- orquestador -->
+  <circle class="pulse" cx="500" cy="210" r="62" fill="#3b82f6"/>
+  <circle cx="500" cy="210" r="58" fill="url(#core)" stroke="#bfdbfe" stroke-width="2"/>
+  <text x="500" y="206" class="m t" style="font-size:15px">ORQUESTADOR</text>
+  <text x="500" y="224" class="m d" style="fill:#dbeafe">LangGraph · ADK</text>
+
+  <!-- fila superior -->
+  <g class="m">
+    <rect class="box" x="70" y="68" width="160" height="54" rx="10"/>
+    <text x="150" y="91" class="t">Claude</text><text x="150" y="108" class="d">Code · Agent SDK</text>
+    <rect class="box" x="270" y="53" width="160" height="54" rx="10"/>
+    <text x="350" y="76" class="t">Gemini</text><text x="350" y="93" class="d">Google ADK</text>
+    <rect class="box" x="570" y="53" width="160" height="54" rx="10"/>
+    <text x="650" y="76" class="t">OpenAI</text><text x="650" y="93" class="d">Codex · Agents SDK</text>
+    <rect class="box" x="770" y="68" width="160" height="54" rx="10"/>
+    <text x="850" y="91" class="t">NVIDIA</text><text x="850" y="108" class="d">NIM · CUDA</text>
+  </g>
+  <!-- fila inferior -->
+  <g class="m">
+    <rect class="box" x="70" y="308" width="160" height="54" rx="10"/>
+    <text x="150" y="331" class="t">Cursor · OpenCode</text><text x="150" y="348" class="d">pair-programming agéntico</text>
+    <rect class="box" x="270" y="323" width="160" height="54" rx="10"/>
+    <text x="350" y="346" class="t">LangChain</text><text x="350" y="363" class="d">RAG · tools · memoria</text>
+    <rect class="box" x="570" y="323" width="160" height="54" rx="10"/>
+    <text x="650" y="346" class="t">MCP</text><text x="650" y="363" class="d">Model Context Protocol</text>
+    <rect class="box" x="770" y="308" width="160" height="54" rx="10"/>
+    <text x="850" y="331" class="t">Workers · Edge</text><text x="850" y="348" class="d">Docker · K8s · Dokploy</text>
+  </g>
+</svg>

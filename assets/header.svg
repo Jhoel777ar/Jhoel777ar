@@ -1,45 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Joel Andrés C. — CEO de ARK DEV, ingeniero Full-Stack" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkMmI3NDEyOC1jMWU1LTQxOTEtYTAyZi04NWZkODQ1YTVlY2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaO0m/4YVswi2eRQ8peCypbkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2N2Y4MDZjNi1mZjJkLTRlYTktYjVmMS02M2VjYjE1ZjY5NjJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoYBtTkHY4z8Xyp0Gk9k4w8gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgguDDcPCvLC3oe+qIKFNPne4IHvVHNcTYQZw5g78U//sSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLQej+d/rNdrePDdQaPjxy4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYINkh1OCAHFtxqWi0O/32EbrbPg/hICcPPEkjqJVBD/1PZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEQZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQyYjc0MTI4LWMxZTUtNDE5MS1hMDJmLTg1ZmQ4NDVhNWVjZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmYxMDhiZDFkLWI3MTItNDI1NS1iODY0LTAxZmZkZGFiM2MyN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC4MNw8K8sLeh76ogoU0+d7gge9Uc1xNhBnDmDvxT/+xKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgglfEoaR9Zs9TolCFeaAuetkY5icRMjGX1oaxI9mKtGNqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggT5MF3OSC5BSDqrWkL6nGgBdxwqLdPzf9LYlA5Ypjrj50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEkOwWKWC0hNtM+TgArdWedLa6I4w39ghe6IVb5lTq+y2w+EEVdJ7tPDpcyRPORdNr2x2j8fFETiXx0KWxPSg4o=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Joel Andrés C. — CEO de ARK DEV · Ingeniero Full-Stack · Agentes de IA">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="55%" stop-color="#1e3a8a">
-        <animate attributeName="stop-color" values="#1e3a8a;#2563eb;#1e3a8a" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#14307a">
+        <animate attributeName="stop-color" values="#14307a;#2563eb;#4c1d95;#14307a" dur="12s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#050816"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#60a5fa" stroke-opacity="0.08" stroke-width="1"/>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#93c5fd">
+        <animate attributeName="offset" values="0.2;0.8;0.2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#60a5fa" stroke-opacity="0.09"/>
     </pattern>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.45"/>
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
     </radialGradient>
     <style>
-      .name{font:700 56px ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;fill:#fff}
-      .tag{font:500 15px ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;fill:#93c5fd;letter-spacing:3px}
-      .sub{font:600 22px ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;fill:#bfdbfe;opacity:0;animation:cycle 12s infinite}
-      .s2{animation-delay:3s}.s3{animation-delay:6s}.s4{animation-delay:9s}
-      @keyframes cycle{0%{opacity:0;transform:translateY(8px)}4%{opacity:1;transform:translateY(0)}22%{opacity:1;transform:translateY(0)}26%{opacity:0;transform:translateY(-6px)}100%{opacity:0}}
+      .mono{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+      .tag{font-size:14px;font-weight:600;fill:#93c5fd;letter-spacing:4px}
+      .name{font-size:60px;font-weight:800;fill:url(#title)}
+      .sub{font-size:21px;font-weight:600;fill:#bfdbfe;opacity:0;animation:cycle 15s infinite}
+      .s2{animation-delay:3s}.s3{animation-delay:6s}.s4{animation-delay:9s}.s5{animation-delay:12s}
+      @keyframes cycle{0%{opacity:0;transform:translateY(8px)}4%{opacity:1;transform:translateY(0)}18%{opacity:1;transform:translateY(0)}22%{opacity:0;transform:translateY(-6px)}100%{opacity:0}}
       .cur{fill:#60a5fa;animation:blink 1s steps(2,start) infinite}
       @keyframes blink{to{visibility:hidden}}
+      .node{fill:#60a5fa;opacity:.8}
     </style>
   </defs>
-  <rect width="1000" height="240" rx="16" fill="url(#bg)"/>
-  <rect width="1000" height="240" rx="16" fill="url(#grid)"/>
-  <circle cx="160" cy="60" r="140" fill="url(#glow)">
-    <animateTransform attributeName="transform" type="translate" values="0 0;520 70;0 0" dur="16s" repeatCount="indefinite"/>
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="280" rx="18" fill="url(#grid)"/>
+  <circle cx="160" cy="70" r="150" fill="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;560 80;0 0" dur="18s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="860" cy="190" r="120" fill="url(#glow)">
-    <animateTransform attributeName="transform" type="translate" values="0 0;-480 -60;0 0" dur="18s" repeatCount="indefinite"/>
+  <circle cx="860" cy="220" r="130" fill="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-520 -70;0 0" dur="20s" repeatCount="indefinite"/>
   </circle>
-  <text x="500" y="52" text-anchor="middle" class="tag">CEO · ARK DEV</text>
-  <text x="500" y="128" text-anchor="middle" class="name">Joel Andrés C.</text>
-  <g text-anchor="middle">
-    <text x="500" y="178" class="sub">Ingeniero Full-Stack</text>
-    <text x="500" y="178" class="sub s2">Integración de IA en aplicaciones web</text>
-    <text x="500" y="178" class="sub s3">Ciberseguridad</text>
-    <text x="500" y="178" class="sub s4">Fundador &amp; CEO @ ARK DEV</text>
+  <!-- red neuronal de fondo -->
+  <g stroke="#60a5fa" stroke-opacity="0.22" stroke-width="1">
+    <line x1="60" y1="60" x2="150" y2="130"/><line x1="150" y1="130" x2="70" y2="210"/>
+    <line x1="150" y1="130" x2="240" y2="70"/><line x1="240" y1="70" x2="300" y2="190"/>
+    <line x1="940" y1="70" x2="850" y2="140"/><line x1="850" y1="140" x2="930" y2="215"/>
+    <line x1="850" y1="140" x2="760" y2="60"/><line x1="760" y1="60" x2="700" y2="200"/>
   </g>
-  <rect x="496" y="196" width="8" height="3" rx="1.5" class="cur"/>
+  <g class="node">
+    <circle cx="60" cy="60" r="4"><animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="130" r="5"><animate attributeName="r" values="4;7;4" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="210" r="4"><animate attributeName="r" values="3;6;3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="70" r="4"><animate attributeName="r" values="3;6;3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="190" r="4"><animate attributeName="r" values="3;6;3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="70" r="4"><animate attributeName="r" values="3;6;3" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="140" r="5"><animate attributeName="r" values="4;7;4" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="215" r="4"><animate attributeName="r" values="3;6;3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="60" r="4"><animate attributeName="r" values="3;6;3" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="200" r="4"><animate attributeName="r" values="3;6;3" dur="3.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="500" y="58" text-anchor="middle" class="mono tag">CEO · ARK DEV</text>
+  <text x="500" y="140" text-anchor="middle" class="mono name">Joel Andrés C.</text>
+  <g text-anchor="middle" class="mono">
+    <text x="500" y="196" class="sub">Ingeniero Full-Stack</text>
+    <text x="500" y="196" class="sub s2">Agentes de IA · Era agéntica</text>
+    <text x="500" y="196" class="sub s3">Apps web con IA integrada</text>
+    <text x="500" y="196" class="sub s4">Ciberseguridad &amp; criptografía</text>
+    <text x="500" y="196" class="sub s5">Fundador &amp; CEO @ ARK DEV</text>
+  </g>
+  <rect x="496" y="218" width="8" height="3" rx="1.5" class="cur"/>
 </svg>
